@@ -2,10 +2,6 @@
  
  ### Facebook mobil uygulamasının login sayfası tasarlandı. 
 
-![Facebook Login Page](loginScreen.jpg)
-
-
-
  #### Varsayılan olarak Eposta:Evin ve Şifre:1234 belirlendi. Giriş butonu tıklanınca girilen bilgiler doğru ise işlem başarılı, değilse işlem başarısız uyarısı verecektir. 
 
 ---
