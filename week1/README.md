@@ -1,7 +1,10 @@
 # Kodluyoruz Istanbul React Native Bootcamp Homework-Week1
  
  ### Facebook mobil uygulamasının login sayfası tasarlandı.
-
+ 
+<div>
+<img src="loginScreen.jpg" alt="Facebook Login Page" width="250" height="300"/>
+</div>
 
  #### Varsayılan olarak Eposta:Evin ve Şifre:1234 belirlendi. Giriş butonu tıklanınca girilen bilgiler doğru ise işlem başarılı, değilse işlem başarısız uyarısı verecektir. 
 
