@@ -3,7 +3,7 @@
  ### Facebook mobil uygulamasının login sayfası tasarlandı.
  
 <div>
-<img src="loginScreen.jpg" alt="Facebook Login Page" width="350" height="400"/>
+<img src="loginScreen.jpg" alt="Facebook Login Page" width="350" height="500"/>
 </div>
 
  #### Varsayılan olarak Eposta:Evin ve Şifre:1234 belirlendi. Giriş butonu tıklanınca girilen bilgiler doğru ise işlem başarılı, değilse işlem başarısız uyarısı verecektir. 
